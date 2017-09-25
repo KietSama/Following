@@ -1,3 +1,3 @@
 # Following
-https://github.com/SebLague, <return>
-https://github.com/dieforfree
+https://github.com/SebLague <br />
+https://github.com/dieforfree <br />
